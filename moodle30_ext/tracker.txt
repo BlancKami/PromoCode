@@ -1,0 +1,32 @@
+Files changed
+course\view.php
+	line no: 262 to 314
+	 purpose : Course overview page changed to have custom meanus and blocks
+index.php
+	line no: 190 to 290
+	purpose : Added custom links to frontpage
+theme\snap\renderers\core_renderer.php
+	line no: 585-590, 645-650	
+	purpose : changed the front image link
+theme\snap\renderers\toc_renderer.php
+	 line no: 240-260
+	 purpose : course view changed
+theme\snap\layout\footer.php
+	line no: 80-90		
+	purpose : site footer changed
+theme\snap\layout\nav.php
+	line no: 30-80	
+	purpose : added links to site header
+theme\snap\renderers\snap_shared.php
+	line no: 675-500
+	purpose : default login page changed
+
+Folders added
+images
+	purpose :  folder contains images used through out the site
+legal
+	purpose :  privacy plocy, code of conduct and terms of use added. Simple HTML
+enrol\waitlist
+	purpose :   Moodle plugin installed. Link to the plugin.
+pages
+	purpose :   Other supporting pages such as abouts-us and institution
